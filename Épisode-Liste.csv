@@ -1,8 +1,8 @@
 ﻿Path,Nom,Numéro,Saison,Durée,Date,Description,Attachments,Piste
-1287 - S01 E01,Le Complot,1,1287 - S01,15:09,2015,,,
-1287 - S01 E02,Un Allié venant du Nord,2,1287 - S01,16:49,2015,,,
-1287 - S01 E03,Le Secret du Kaizer,3,1287 - S01,19:02,2015,,,
-1287 - S01 E04,L’Or du Comte,4,1287 - S01,14:36,2015,,,
+1287 - S01 E01,Le Complot,1,1287 - S01,15:09,2015,,,https://www.youtube.com/watch?v=jZvjPewX8vU&list=PLMTSO5fLj_87-V0XPztqpaePQ5T2YIzzY
+1287 - S01 E02,Un Allié venant du Nord,2,1287 - S01,16:49,2015,,,https://www.youtube.com/watch?v=T1ECpKrU11Y&list=PLMTSO5fLj_87-V0XPztqpaePQ5T2YIzzY&index=2
+1287 - S01 E03,Le Secret du Kaizer,3,1287 - S01,19:02,2015,,,https://www.youtube.com/watch?v=DiBNQH4KQ-c&list=PLMTSO5fLj_87-V0XPztqpaePQ5T2YIzzY&index=3
+1287 - S01 E04,L’Or du Comte,4,1287 - S01,14:36,2015,,,https://www.youtube.com/watch?v=r5emP17ieOY&list=PLMTSO5fLj_87-V0XPztqpaePQ5T2YIzzY&index=4
 1287 - S01 E05,Les Galettes de Toulouse,5,1287 - S01,17:55,2017,,,
 1287 - S01 E06,La Dame de Fer,6,1287 - S01,25:17,2017,,,
 1287 - S01 E07,Révélation divine,7,1287 - S01,16:14,2017,,,
@@ -30,19 +30,44 @@ Adoprixtoxis - S01 E16,Hyperspace,16,Adoprixtoxis - S01,19:57,,,,
 Adoprixtoxis - S01 E17,Le début de la fin,17,Adoprixtoxis - S01,22:22,,,,
 Adoprixtoxis - S01 E18,Mega battle Part 1,18,Adoprixtoxis - S01,19:58,,,,
 Adoprixtoxis - S01 E19,Mega battle Part 2,19,Adoprixtoxis - S01,15:16,,,,
+Afterlife Inc. - S01 E01,Le train,1,Afterlife Inc. - S01,3:27,2020,,,https://www.youtube.com/watch?v=LcYQVbNmYAo&list=PL_-IZ4z7HPGdGtD3MCj5OSUaoLpTKTm5o&index=2
+Afterlife Inc. - S01 E02,Le réveil,2,Afterlife Inc. - S01,4:57,2020,,,https://www.youtube.com/watch?v=XP2nYliZK9Q&list=PL_-IZ4z7HPGdGtD3MCj5OSUaoLpTKTm5o&index=3
+Afterlife Inc. - S01 E03,La peur,3,Afterlife Inc. - S01,3:26,2020,,,https://www.youtube.com/watch?v=I5E41n8x2wY&list=PL_-IZ4z7HPGdGtD3MCj5OSUaoLpTKTm5o&index=4
+Afterlife Inc. - S01 E04,La rencontre,4,Afterlife Inc. - S01,11:11,2020,,,https://www.youtube.com/watch?v=CxDMCVVE71k&list=PL_-IZ4z7HPGdGtD3MCj5OSUaoLpTKTm5o&index=5
+Afterlife Inc. - S01 E05,Les présentations,5,Afterlife Inc. - S01,4:09,2020,,,https://www.youtube.com/watch?v=GLn7VmQOj1A&list=PL_-IZ4z7HPGdGtD3MCj5OSUaoLpTKTm5o&index=6
+Afterlife Inc. - S01 E06,Le quai,6,Afterlife Inc. - S01,4:35,2020,,,https://www.youtube.com/watch?v=5WHicsGN9h8&list=PL_-IZ4z7HPGdGtD3MCj5OSUaoLpTKTm5o&index=7
+Afterlife Inc. - S01 E07,Le directeur,7,Afterlife Inc. - S01,4:18,2020,,,https://www.youtube.com/watch?v=6Xi2f3Ts9nk&list=PL_-IZ4z7HPGdGtD3MCj5OSUaoLpTKTm5o&index=8
+Afterlife Inc. - S01 E08,La ruche,8,Afterlife Inc. - S01,14:51,2020,,,https://www.youtube.com/watch?v=dtC5HoZa5PQ&list=PL_-IZ4z7HPGdGtD3MCj5OSUaoLpTKTm5o&index=9
+Amydale Crossing - S01 E01,Épisode 1,1,Amydale Crossing - S01,15:00,2020,,,https://www.youtube.com/watch?v=PXo-eBPT-GI&list=PLX9jskeW-ypfmr6Ct-VT0tcATtrYPVeTy&index=3
+Amydale Crossing - S01 E02,Épisode 2,2,Amydale Crossing - S01,17:49,2021,,,https://www.youtube.com/watch?v=XtUNgAy1Pz0&list=PLX9jskeW-ypfmr6Ct-VT0tcATtrYPVeTy&index=2
+Amydale Crossing - S01 E03,Épisode 3,3,Amydale Crossing - S01,16:23,2021,,,https://www.youtube.com/watch?v=u1nWPCsegOw&list=PLX9jskeW-ypfmr6Ct-VT0tcATtrYPVeTy&index=3
+Ânkh - S01 E01,Épisode 1,1,Ânkh - S01,7:48,2020,,,https://www.youtube.com/watch?v=Tgp2NbEPR-0&list=PLX9jskeW-ypelfLANcESNCpU8Tk3l-wd1&index=1
+Ânkh - S01 E02,Épisode 2,2,Ânkh - S01,5:50,2020,,,https://www.youtube.com/watch?v=UFt_lmvPnYc&list=PLX9jskeW-ypelfLANcESNCpU8Tk3l-wd1&index=2
+Ânkh - S01 E03,Épisode 3,3,Ânkh - S01,9:12,2020,,,https://www.youtube.com/watch?v=uUZuduZXBkk&list=PLX9jskeW-ypelfLANcESNCpU8Tk3l-wd1&index=3
 B-56 - S01 E01,Découverte,1,B-56 - S01,10:20,,,,https://www.youtube.com/watch?v=GBkvRKRwdHE
-Blind Cowboy - S01 E01,Make the Dust Fly,1,Blind Cowboy - S01,3:54,2020,,,
-Blind Cowboy - S01 E02,Birds of a Feather,2,Blind Cowboy - S01,3:12,2020,,,
-Blind Cowboy - S01 E03,Keep the powder dry,3,Blind Cowboy - S01,3:44,2020,,,
-Blind Cowboy - S01 E04,Head over heels,4,Blind Cowboy - S01,2:25,2020,,,
-Blind Cowboy - S01 E05,Pieces of Eight,5,Blind Cowboy - S01,3:26,2020,,,
+Blind Cowboy - S01 E01,Make the Dust Fly,1,Blind Cowboy - S01,3:54,2020,,,https://www.youtube.com/watch?v=YKUpl1cW5EQ&list=PLR3_sTHVLKhcxa8shna2NKXIdTJEEY_1W&index=1
+Blind Cowboy - S01 E02,Birds of a Feather,2,Blind Cowboy - S01,3:12,2020,,,https://www.youtube.com/watch?v=iUPb71CPdTA&list=PLR3_sTHVLKhcxa8shna2NKXIdTJEEY_1W&index=2
+Blind Cowboy - S01 E03,Keep the powder dry,3,Blind Cowboy - S01,3:44,2020,,,https://www.youtube.com/watch?v=B0mdRQnEnnA&list=PLR3_sTHVLKhcxa8shna2NKXIdTJEEY_1W&index=3
+Blind Cowboy - S01 E04,Head over heels,4,Blind Cowboy - S01,2:25,2020,,,https://www.youtube.com/watch?v=USlCXHQzTJ0&list=PLR3_sTHVLKhcxa8shna2NKXIdTJEEY_1W&index=4
+Blind Cowboy - S01 E05,Pieces of Eight,5,Blind Cowboy - S01,3:26,2020,,,https://www.youtube.com/watch?v=NtP3HO29hGg&list=PLR3_sTHVLKhcxa8shna2NKXIdTJEEY_1W&index=5
 CA$HTING - S01 E01,Chapitre 1,1,CA$HTING - S01,19:59,2015,,,
 CA$HTING - S01 E02,Chapitre 2,2,CA$HTING - S01,17:30,2015,,,
 CA$HTING - S01 E03,Chapitre 3,3,CA$HTING - S01,27:58,2015,,,
 CA$HTING - S01 E04,Chapitre 4,4,CA$HTING - S01,22:19,2015,,,
 Cinq - S01 E01,Cinq,1,Cinq - S01,23:12,2016,,,
-Cyrano de Bergerac - S01 E01,Acte I,1,Cyrano de Bergerac - S01,37:39,2020,,,
-Cyrano de Bergerac - S01 E02,Acte II,2,Cyrano de Bergerac - S01,31:30,2020,,,
+Clyde Vanilla - S01 E01,Destination : Destin !,1,Clyde Vanilla - S01,14:15,2017,,,https://www.youtube.com/watch?v=hjz5JHCAhk8&list=PLmnpJZxBm1ybcX3go6l5YlWGLKGDzijlz&index=1
+Clyde Vanilla - S01 E02,Bonjour la Galère !,2,Clyde Vanilla - S01,19:23,2017,,,https://www.youtube.com/watch?v=Qo6HadwSTzQ&list=PLmnpJZxBm1ybcX3go6l5YlWGLKGDzijlz&index=2
+Clyde Vanilla - S01 E03,Le Joyau de Agu-Agu,3,Clyde Vanilla - S01,16:24,2017,,,https://www.youtube.com/watch?v=xqEbjJllfXg&list=PLmnpJZxBm1ybcX3go6l5YlWGLKGDzijlz&index=3
+Clyde Vanilla - S01 E04,Adjugé-Vendu !,4,Clyde Vanilla - S01,19:23,2017,,,https://www.youtube.com/watch?v=jOFkt98s6rE&list=PLmnpJZxBm1ybcX3go6l5YlWGLKGDzijlz&index=4
+Clyde Vanilla - S01 E05,ＢＲＡＮＬＯＵＩＳ,5,Clyde Vanilla - S01,19:58,2017,,,https://www.youtube.com/watch?v=Wp8ZXoWZ6h8&list=PLmnpJZxBm1ybcX3go6l5YlWGLKGDzijlz&index=5
+Clyde Vanilla - S01 E06,L'Enfer Jaune,6,Clyde Vanilla - S01,19:28,2017,,,https://www.youtube.com/watch?v=WVSvtPHj7Vw&list=PLmnpJZxBm1ybcX3go6l5YlWGLKGDzijlz&index=6
+Clyde Vanilla - S01 E07,Discoball,7,Clyde Vanilla - S01,22:06,2017,,,https://www.youtube.com/watch?v=WmiaecBVBnY&list=PLmnpJZxBm1ybcX3go6l5YlWGLKGDzijlz&index=7
+Clyde Vanilla - S01 E08,Le Client est Roi,8,Clyde Vanilla - S01,20:03,2017,,,https://www.youtube.com/watch?v=FQ7-aNX27Sc&list=PLmnpJZxBm1ybcX3go6l5YlWGLKGDzijlz&index=8
+Clyde Vanilla - S01 E09,L'Être Primordial,9,Clyde Vanilla - S01,20:46,2017,,,https://www.youtube.com/watch?v=tEvxCacYbFU&list=PLmnpJZxBm1ybcX3go6l5YlWGLKGDzijlz&index=9
+Clyde Vanilla - S01 E10,Confrontation ULTRAMAXIMALE,10,Clyde Vanilla - S01,19:34,2017,,,https://www.youtube.com/watch?v=z9TH79ghEbA&list=PLmnpJZxBm1ybcX3go6l5YlWGLKGDzijlz&index=10
+Cyrano de Bergerac - S01 E01,Acte I,1,Cyrano de Bergerac - S01,37:39,2020,,,https://www.youtube.com/watch?v=zlQZJ21K2SU
+Cyrano de Bergerac - S01 E02,Acte II,2,Cyrano de Bergerac - S01,31:30,2020,,,https://www.youtube.com/watch?v=tVhVbxtyAzs
+Cyrano de Bergerac - S01 E03,Acte III,3,Cyrano de Bergerac - S01,31:40,2021,,,https://www.youtube.com/watch?v=kJakBxf8eNg
 Dianké - S01 E01,Te plains pas de la pluie,1,Dianké - S01,18:29,2020,,,
 Dianké - S01 E02,Les stigmates que l'on porte,2,Dianké - S01,17:22,2020,,,
 Dianké - S01 E03,Le long chemin,3,Dianké - S01,19:31,2020,,,
@@ -113,6 +138,10 @@ Frite - S01 E28,Vingt-cinquième frite,28,Frite - S01,2:10,,,,
 Frite - S01 E29,Vingt-sixième frite,29,Frite - S01,2:27,,,,
 Frite - S01 E30,Vingt-septième frite,30,Frite - S01,0:26,,,,
 Frite - S01 E31,Dernière frite,31,Frite - S01,2:45,,,,
+Grim Reapers - S01 E01,Prologue,1,Grim Reapers - S01,6:37,2019,,,https://www.youtube.com/watch?v=57m8vzB87qw&list=PLX9jskeW-ypcOpw3ROXwB8hu_LkqGJgz-&index=1
+Grim Reapers - S01 E02,Mission Au Par-Delà,2,Grim Reapers - S01,6:14,2019,,,https://www.youtube.com/watch?v=Qh4KMUFv_yA&list=PLX9jskeW-ypcOpw3ROXwB8hu_LkqGJgz-&index=2
+Grim Reapers - S01 E03,Marginaux & Abyssaux,3,Grim Reapers - S01,7:30,2020,,,https://www.youtube.com/watch?v=wlLz6FNMO58&list=PLX9jskeW-ypcOpw3ROXwB8hu_LkqGJgz-&index=3
+Grim Reapers - S01 E04,In Nomine Pater,4,Grim Reapers - S01,13:54,2020,,,https://www.youtube.com/watch?v=NaealDgU9U0&list=PLX9jskeW-ypcOpw3ROXwB8hu_LkqGJgz-&index=4
 Hector ou les Chroniques d'un Rastronaute  - S01 E01,Épisode 1,1,Hector ou les Chroniques d'un Rastronaute  - S01,10:46,2020,,,
 Hector ou les Chroniques d'un Rastronaute  - S01 E02,Épisode 2,2,Hector ou les Chroniques d'un Rastronaute  - S01,14:05,2020,,,
 Hector ou les Chroniques d'un Rastronaute  - S01 E03,Épisode 3,3,Hector ou les Chroniques d'un Rastronaute  - S01,18:16,2020,,,
@@ -124,8 +153,10 @@ HERO - S01 E03,Sidekick,3,HERO - S01,8:32,,Grimm rencontre sur sa route un indiv
 HERO - S01 E04,Ascension,4,HERO - S01,7:02,,"Plus forte est l'ascension, plus dure sera la chute mais plus rapide sera la remontée... et plus sanglante !",,
 HERO - S01 E05,Obstacles,5,HERO - S01,7:43,,"Grimm, plus « désarmé » que jamais, doit faire face à encore et toujours plus d'obstacles. Mais la fin est proche.",,
 HERO - S01 E06,Hero,6,HERO - S01,8:56,,L'affrontement final et tant attendu entre Helten et Grimm. Qui en ressortira vivant ?,,
-Jencyo Rêva - S01 E01,Prologue,1,Jencyo Rêva - S01,8:10,,,,
-Jencyo Rêva - S01 E02,Épisode 1,2,Jencyo Rêva - S01,10:35,,,,
+James Rico - Drame à Victory City - S01 E01,Drame à Victory City,1,James Rico - Drame à Victory City - S01,24:23,,,,https://www.youtube.com/watch?v=oFDtaJBPHSU
+James Rico - Le Joyau des Ombres - S01 E01,Le Joyau des Ombres,1,James Rico - Le Joyau des Ombres - S01,43:17,2021,,,https://www.youtube.com/watch?v=2lhgQ5gG_eA
+Jencyo Rêva - S01 E01,Prologue,1,Jencyo Rêva - S01,8:10,,,,https://www.youtube.com/watch?v=cMcYQKJuVms&list=PLmGrcBYePAlK22p-DtbeLLylM-KHnCkhw&index=1
+Jencyo Rêva - S01 E02,Épisode 1,2,Jencyo Rêva - S01,10:35,,,,https://www.youtube.com/watch?v=SK5uMysWloM&list=PLmGrcBYePAlK22p-DtbeLLylM-KHnCkhw&index=2
 Jencyo Rêva - S02 E01,Prologue,1,Jencyo Rêva - S02,8:50,,,,
 Jencyo Rêva - S02 E02,Épisode 1,2,Jencyo Rêva - S02,12:17,,,,
 Jencyo Rêva - S02 E03,Épisode 2,3,Jencyo Rêva - S02,19:09,,,,
@@ -176,26 +207,26 @@ L'employé - S01 E05,L'Oublié,5,L'employé - S01,20:33,2019,,,
 L'employé - S01 E06,Le Meurtrier,6,L'employé - S01,22:39,2019,,,
 L'employé - S01 E07,La Réponse,7,L'employé - S01,27:04,2019,,,
 L'employé - S01 E08,La Supérieure,8,L'employé - S01,21:20,2019,,,
-L'épopée temporelle - S01 E01,Le robot,1,L'épopée temporelle - S01,8:54,2017,,,
-L'épopée temporelle - S01 E02,La disparition,2,L'épopée temporelle - S01,8:47,2017,,,
-L'épopée temporelle - S01 E03,L'enfant perdu,3,L'épopée temporelle - S01,8:26,2017,,,
-L'épopée temporelle - S01 E04,La chute,4,L'épopée temporelle - S01,8:53,2017,,,
-L'épopée temporelle - S01 E05,Le scientifique,5,L'épopée temporelle - S01,8:53,2017,,,
-L'épopée temporelle - S01 E06,Le sacrifice,6,L'épopée temporelle - S01,9:17,2017,,,
-L'épopée temporelle - S01 E07,Les épreuves,7,L'épopée temporelle - S01,10:03,2017,,,
-L'épopée temporelle - S01 E08,Le tournoi,8,L'épopée temporelle - S01,9:11,2017,,,
-L'épopée temporelle - S01 E09,Le match final,9,L'épopée temporelle - S01,10:50,2017,,,
-L'épopée temporelle - S01 E10,Fin,10,L'épopée temporelle - S01,13:09,2017,,,
-L'épopée temporelle - S02 E01,Le temps cassé,1,L'épopée temporelle - S02,11:46,2018,,,
-L'épopée temporelle - S02 E02,Le Titanic,2,L'épopée temporelle - S02,11:09,2018,,,
-L'épopée temporelle - S02 E03,Léonard De Vinci,3,L'épopée temporelle - S02,10:16,2018,,,
-L'épopée temporelle - S02 E04,Flèches et canon laser,4,L'épopée temporelle - S02,12:37,2018,,,
-L'épopée temporelle - S02 E05,Dans l'arène,5,L'épopée temporelle - S02,12:28,2018,,,
-L'épopée temporelle - S02 E06,Dieu créa Internet,6,L'épopée temporelle - S02,9:39,2018,,,
-L'épopée temporelle - S02 E07,La Prise de La Bastille,7,L'épopée temporelle - S02,10:05,2018,,,
-L'épopée temporelle - S02 E08,Le Livre Sacré,8,L'épopée temporelle - S02,9:26,2018,,,
-L'épopée temporelle - S02 E09,Denver,9,L'épopée temporelle - S02,14:24,2018,,,
-L'épopée temporelle - S02 E10,Fin,10,L'épopée temporelle - S02,13:40,2018,,,
+L'épopée temporelle - S01 E01,Le robot,1,L'épopée temporelle - S01,8:54,2017,,,https://www.youtube.com/watch?v=XZnySZWeSJM&list=PLN-TcjS0qZKXFfIUWXxv9bvs19868yJiJ
+L'épopée temporelle - S01 E02,La disparition,2,L'épopée temporelle - S01,8:47,2017,,,https://www.youtube.com/watch?v=u8P61-FsMMA&list=PLN-TcjS0qZKXFfIUWXxv9bvs19868yJiJ&index=2
+L'épopée temporelle - S01 E03,L'enfant perdu,3,L'épopée temporelle - S01,8:26,2017,,,https://www.youtube.com/watch?v=4JfFVVbv5Lo&list=PLN-TcjS0qZKXFfIUWXxv9bvs19868yJiJ&index=3
+L'épopée temporelle - S01 E04,La chute,4,L'épopée temporelle - S01,8:53,2017,,,https://www.youtube.com/watch?v=Jbc_gCzzitE&list=PLN-TcjS0qZKXFfIUWXxv9bvs19868yJiJ&index=4
+L'épopée temporelle - S01 E05,Le scientifique,5,L'épopée temporelle - S01,8:53,2017,,,https://www.youtube.com/watch?v=ovDcJ_MNNkE&list=PLN-TcjS0qZKXFfIUWXxv9bvs19868yJiJ&index=5
+L'épopée temporelle - S01 E06,Le sacrifice,6,L'épopée temporelle - S01,9:17,2017,,,https://www.youtube.com/watch?v=Sm5Ai0WRLXw&list=PLN-TcjS0qZKXFfIUWXxv9bvs19868yJiJ&index=6
+L'épopée temporelle - S01 E07,Les épreuves,7,L'épopée temporelle - S01,10:03,2017,,,https://www.youtube.com/watch?v=AE3QyMf900I&list=PLN-TcjS0qZKXFfIUWXxv9bvs19868yJiJ&index=7
+L'épopée temporelle - S01 E08,Le tournoi,8,L'épopée temporelle - S01,9:11,2017,,,https://www.youtube.com/watch?v=b5BqxjAmJ1M&list=PLN-TcjS0qZKXFfIUWXxv9bvs19868yJiJ&index=8
+L'épopée temporelle - S01 E09,Le match final,9,L'épopée temporelle - S01,10:50,2017,,,https://www.youtube.com/watch?v=RDqrr9GapCk&list=PLN-TcjS0qZKXFfIUWXxv9bvs19868yJiJ&index=9
+L'épopée temporelle - S01 E10,Fin,10,L'épopée temporelle - S01,13:09,2017,,,https://www.youtube.com/watch?v=Am9pavV7q2g&list=PLN-TcjS0qZKXFfIUWXxv9bvs19868yJiJ&index=10
+L'épopée temporelle - S02 E01,Le temps cassé,1,L'épopée temporelle - S02,11:46,2018,,,https://www.youtube.com/watch?v=bZRQJzI1Q3g&list=PLN-TcjS0qZKXFfIUWXxv9bvs19868yJiJ&index=11
+L'épopée temporelle - S02 E02,Le Titanic,2,L'épopée temporelle - S02,11:09,2018,,,https://www.youtube.com/watch?v=XZBodG_0auE&list=PLN-TcjS0qZKXFfIUWXxv9bvs19868yJiJ&index=12
+L'épopée temporelle - S02 E03,Léonard De Vinci,3,L'épopée temporelle - S02,10:16,2018,,,https://www.youtube.com/watch?v=EpWUjY535_4&list=PLN-TcjS0qZKXFfIUWXxv9bvs19868yJiJ&index=13
+L'épopée temporelle - S02 E04,Flèches et canon laser,4,L'épopée temporelle - S02,12:37,2018,,,https://www.youtube.com/watch?v=3xJkPupLXzg&list=PLN-TcjS0qZKXFfIUWXxv9bvs19868yJiJ&index=14
+L'épopée temporelle - S02 E05,Dans l'arène,5,L'épopée temporelle - S02,12:28,2018,,,https://www.youtube.com/watch?v=tY7Q9Gy32Z8&list=PLN-TcjS0qZKXFfIUWXxv9bvs19868yJiJ&index=15
+L'épopée temporelle - S02 E06,Dieu créa Internet,6,L'épopée temporelle - S02,9:39,2018,,,https://www.youtube.com/watch?v=wRpCUd16FEU&list=PLN-TcjS0qZKXFfIUWXxv9bvs19868yJiJ&index=16
+L'épopée temporelle - S02 E07,La Prise de La Bastille,7,L'épopée temporelle - S02,10:05,2018,,,https://www.youtube.com/watch?v=BcFieu1XCQI&list=PLN-TcjS0qZKXFfIUWXxv9bvs19868yJiJ&index=17
+L'épopée temporelle - S02 E08,Le Livre Sacré,8,L'épopée temporelle - S02,9:26,2018,,,https://www.youtube.com/watch?v=rpg36-e1B8U&list=PLN-TcjS0qZKXFfIUWXxv9bvs19868yJiJ&index=18
+L'épopée temporelle - S02 E09,Denver,9,L'épopée temporelle - S02,14:24,2018,,,https://www.youtube.com/watch?v=0xq9fTCzhis&list=PLN-TcjS0qZKXFfIUWXxv9bvs19868yJiJ&index=19
+L'épopée temporelle - S02 E10,Fin,10,L'épopée temporelle - S02,13:40,2018,,,https://www.youtube.com/watch?v=sFqNL_ZXJSE&list=PLN-TcjS0qZKXFfIUWXxv9bvs19868yJiJ&index=20
 L'Histoire de France (PLC) - S01 E01,Le Mésolithique,1,L'Histoire de France (PLC) - S01,6:30,2013,,,
 L'Histoire de France (PLC) - S01 E02,Le Néolithique,2,L'Histoire de France (PLC) - S01,8:18,2013,,,
 L'Histoire de France (PLC) - S01 E03,L'Âge Des Métaux,3,L'Histoire de France (PLC) - S01,8:45,2013,,,
@@ -204,6 +235,7 @@ L'Histoire de France (PLC) - S01 E05,La Guerre Des Gaules,5,L'Histoire de France
 L'Histoire de France (PLC) - S01 E06,"Vercingétorix, Chef Des Gaulois",6,L'Histoire de France (PLC) - S01,11:07,2014,,,
 L'Histoire de France (PLC) - S01 E07,"La Gaule, Province Romaine",7,L'Histoire de France (PLC) - S01,10:25,2014,,,
 L'Histoire de France (PLC) - S01 E08,Lutèce et les Parisii,8,L'Histoire de France (PLC) - S01,13:52,2015,,,
+La Chaleur de l’endroit - S01 E01,,1,La Chaleur de l’endroit - S01,,2020,,,https://www.youtube.com/watch?v=P4lDE-uE0Ag
 La Légende de l'Ankou - S01 E01,Miz Genver - Janvier,1,La Légende de l'Ankou - S01,17:05,,,,
 La Légende de l'Ankou - S01 E02,Miz C'hwevrer - Février,2,La Légende de l'Ankou - S01,19:30,,,,
 La Légende de l'Ankou - S01 E03,Mars,3,La Légende de l'Ankou - S01,16:31,,,,
@@ -290,8 +322,6 @@ Le donjon de Naheulbeuk - S03 E11,Les gens des sectes,11,Le donjon de Naheulbeuk
 Le donjon de Naheulbeuk - S03 E12,L'heure joyeuse,12,Le donjon de Naheulbeuk - S03,9:02,2013,,,
 Le donjon de Naheulbeuk - S03 E13,Les Blagues,13,Le donjon de Naheulbeuk - S03,8:33,2017,,,
 Le donjon de Naheulbeuk - S03 E14,J'apprends la magie,14,Le donjon de Naheulbeuk - S03,12:15,2020,,,
-Les Aventures de James Rico - S01 E01,Drame à Victory City,1,Les Aventures de James Rico - S01,24:23,,,,https://www.youtube.com/watch?v=oFDtaJBPHSU
-Les Aventures de James Rico - S02 E01,Le Joyau des Ombres,1,Les Aventures de James Rico - S02,43:17,2021,,,https://www.youtube.com/watch?v=2lhgQ5gG_eA
 Les Aventuriers  - S01 E01,À la Recherche de la Pyramide Perdue,1,Les Aventuriers  - S01,4:56,2016,,,
 Les Aventuriers  - S01 E02,Bandelettes et Crustacés,2,Les Aventuriers  - S01,6:00,2016,,,
 Les Aventuriers  - S01 E03,On l'appelle Fate,3,Les Aventuriers  - S01,4:33,2016,,,
